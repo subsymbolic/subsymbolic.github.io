@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome to subsymbolic, home to Mia Alexiou's projects, ideas and ruminations.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a freelance software engineer, specialising in mobile, iOS and Android. I have built numerous applications, large and small, including helping launch Duck Duck Go’s mobile browsers and privacy tools. I am currently directing my attention to my long-standing passions of psychology, health and data science. **We are living through a great mental health crisis, people are struggling. I want to understand why and what we need to change to foster healthier, happier communities.**
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm an avid volunteer. I love travelling and getting immersed in humanity, almost as much as fleeing it and escaping into nature. I enjoy hiking, cycling and swimming but am especially running-obsessed - there is nothing I  love more than a day on the trails.
 
-
-[jekyll-organization]: https://github.com/jekyll
+**I need physical activity to _be_ well. Perhaps we all do.**
