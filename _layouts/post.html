@@ -19,6 +19,10 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if page.categories.size > 0 -%}
+    {%- include categories.html categories=page.categories tags=page.tags -%}
+  {%- endif -%}
+
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

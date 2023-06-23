@@ -3,16 +3,38 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+
+  {%- if page.type == "category" and page.title -%}
+    <h1 class="post-title">Posts in <strong>{{ page.title | capitalize }}</strong></h1>
+  {%- elsif page.type == "tag" and page.title -%}
+    <h1 class="post-title">Posts tagged <strong>{{ page.title | capitalize }}</strong></h1> 
+  {%- elsif page.title -%}
+    <h1 class="post-title">{{ page.title }}</h1>
+  {%- else -%}
+    <h1 class="post-title">{{ page.list_title | default: "Blog" }}</h1>
   {%- endif -%}
+
+  {% if page.posts.size > 0 %}
+    {% assign posts = page.posts %}
+  {% elsif site.posts.size > 0 %}
+    {% assign posts = site.posts %}
+  {% endif %}
 
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  {%- if posts.size > 0 -%}
+
+    {%- if site.categories -%}
+    <div class="category-nav">
+      <a href="/">All</a>
+      {% for category in site.categories %}
+        <a href="/category/{{ category | first | slugify }}">{{ category | first | capitalize }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     <ul class="post-list">
-      {%- for post in site.posts -%}
+      {%- for post in posts -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -24,10 +46,14 @@ layout: default
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
+
+        {%- if post.categories -%}
+          {%- include categories.html categories=post.categories tags=post.tags -%}
+        {%- endif -%}
+
       </li>
       {%- endfor -%}
     </ul>
-
   {%- endif -%}
 
 </div>

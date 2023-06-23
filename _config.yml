@@ -32,12 +32,21 @@ mastodon:
 - username: subsymbolic
   instance: fosstodon.org
 rss: rss
+jekyll-archives:
+  enabled: [categories, tags]
+  layout: home
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
 
 # Build settings
 theme: minima
+header_pages:
+  - about.markdown
 show_excerpts: true
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
 # Exclude from processing.
 # The following items will not be processed, by default.
