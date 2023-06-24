@@ -8,7 +8,7 @@ tags: [running, goals]
 
 ![Graph showing challenge progress to completion](/assets/the-150-challenge-progress.webp)
 
-I read about ultrarunner Marco Consani’s personal challenge to run 5 kilometres a day in November. Marco took on the challenge during an off-season period of inactivity and it had a huge impact on his morale and health. He now encourages people to take part in the Marcothon, a 5km (or 25 min) a day challenge, each December — the month most people’s health and fitness fare badly.
+I read about ultrarunner Marco Consani’s personal challenge to run 5 kilometres a day in November. Marco took on the challenge during an off-season period of inactivity and it had a huge impact on his morale and health. He now encourages people to take part in the Marcothon, a 5km (or 25 min) a day challenge, each December — the month most people’s health and fitness fare badly. <!--more-->
 
 I liked the sound of the challenge. It seemed to be both an accessible daily distance and a great achievement. Covering 150kms in a single month is epic. December can be cold and gloomy in Scotland; with the anaemic winter sun setting before 4 pm, it is easy to go days without seeing light. A goal like this seemed like a good way to stay active and motivated.
 

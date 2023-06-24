@@ -6,9 +6,8 @@ categories: [health]
 tags: [running]
 ---
 
-Off I went on my first run. My running buddy Molly cautioned that we should take it easy. So easy in fact, that we could still maintain our usual level of animated conversation. This sounded great to me. We took it very easy.
+Off I went on my first run. My running buddy Molly cautioned that we should take it easy. So easy in fact, that we could still maintain our usual level of animated conversation. This sounded great to me. We took it very easy.  <!--more-->
 We felt a little awkward but we weren’t, as we feared, gasping for air, overheating or feeling lighheaded. We kept commenting that it wasn’t nearly as horrible as we had anticipated. High praise indeed. And then it was over. We had run for a minute. We could run!
-
 
 > It wasn’t nearly as horrible as we had anticipated
 

@@ -6,7 +6,7 @@ categories: [health]
 tags: [running]
 ---
 
-I was in my 20s and I had shelved my social life and returned to university. I loved my degree but I was drowning — it was a double with more contact hours than felt humanly possible. Between lectures; tutorials; assignments and part-time work, my general fitness had declined. Noticeably. A short sprint to catch a tram would leave me feeling faint.
+I was in my 20s and I had shelved my social life and returned to university. I loved my degree but I was drowning — it was a double with more contact hours than felt humanly possible. Between lectures; tutorials; assignments and part-time work, my general fitness had declined. Noticeably. A short sprint to catch a tram would leave me feeling faint. <!--more-->
 
 My diet wasn’t faring well either. I had been a healthy eater but as I got busier, convenience started to trump nutrition. Late at night, after the campus cafes had closed, I would raid the vending machine outside my lab for whatever sustenance I could get.
 
