@@ -2,8 +2,10 @@
 layout: post
 title:  "A loss of human dignity"
 date:   2020-06-27
-categories: [society]
-tags: [addiction]
+categories:
+  - society
+tags:
+  - addiction
 ---
 
 Almost a decade ago, I visited San Francisco for a developer conference. I got off the train and walked straight into the crack district. Before me were some of the most retched people I have ever seen, most passed out, limbs arranged unnaturally, as if they had just dropped. Some had soiled themselves. <!--more--> Those awake and conscious enough, were staring. At. Me. Clearly a tourist. It made me nervous, but having entered, I couldn't turn back. So I kept going, dragging my giant bright red suitcase as quickly as I could up the hill towards my hotel. Other than being cornered briefly by a man holding a rock, who wanted to know if I could see Jesus’ face in it, I made it through without incident.

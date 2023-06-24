@@ -2,8 +2,11 @@
 layout: post
 title:  "The 150 Challenge"
 date:   2016-01-29
-categories: [health]
-tags: [running, goals]
+categories:
+  - health
+tags:
+  - running
+  - goals
 ---
 
 ![Graph showing challenge progress to completion](/assets/the-150-challenge-progress.webp)

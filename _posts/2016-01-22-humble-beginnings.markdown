@@ -2,8 +2,10 @@
 layout: post
 title:  "Humble beginnings"
 date:   2016-01-22
-categories: [health]
-tags: [running]
+categories:
+  - health
+tags:
+  - running
 ---
 
 Off I went on my first run. My running buddy Molly cautioned that we should take it easy. So easy in fact, that we could still maintain our usual level of animated conversation. This sounded great to me. We took it very easy.  <!--more-->

@@ -2,7 +2,8 @@
 layout: post
 title:  "Privilege"
 date:   2017-08-26
-categories: [society]
+categories:
+  - society
 ---
 
 I have travelled so freely, that the one time I was refused entry into a country for screwing up VISA requirements, my response was to argue my way in. <!--more-->

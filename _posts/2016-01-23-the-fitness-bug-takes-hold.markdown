@@ -2,8 +2,10 @@
 layout: post
 title:  "The fitness bug takes hold"
 date:   2016-01-29
-categories: [health]
-tags: [running]
+categories:
+  - health
+tags:
+  - running
 ---
 
 ![Trekking Annapurna, Nepal](/assets/trekking-annapurna-nepal.webp)
