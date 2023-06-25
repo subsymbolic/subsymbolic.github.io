@@ -17,12 +17,23 @@ $smaller-font-size: $base-font-size * 0.75 !default;
 }
 
 .category-nav {
-    margin-bottom: 32pt;
+    margin-bottom: 32px;
     border-bottom: 1px solid $grey-color-light;
 }
 
 .category-nav a {
-    padding-inline-end: 8pt;
+    padding-inline-end: 8px;
     font-weight: bolder;
     color: $grey-color;
 }
+
+.image-credit {
+    font-size: $smaller-font-size;
+    color: $grey-color;
+}
+
+.image-credit a {
+    color: $grey-color; 
+    font-weight: bolder; 
+}
+
