@@ -8,7 +8,7 @@ tags:
   - running
 ---
 
-![Trekking Annapurna, Nepal](/assets/trekking-annapurna-nepal.webp)
+![Trekking Annapurna, Nepal](/assets/the-fitness-bug-trekking-annapurna-nepal.webp)
 
 After having booked a hiking trip to Nepal in my early 20s, I began to panic. I had done some light hiking in the past, but never anything like the hard full-day trekking I had just signed up for. <!--more--> I was concerned that my fitness wasn’t going to hold up. Would I spend my days gasping for air at high altitude desperately trying to keep up with a group of experienced mountaineers? And what if I couldn’t keep up? Would they abandon me?
 
