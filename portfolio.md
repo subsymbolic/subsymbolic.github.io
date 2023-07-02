@@ -84,7 +84,7 @@ I have given uncountable talks and interviews to organisations covering software
 
 <div class="portfolio-entry">
   <video controls class="portfolio-media-wide">
-    <source src="/media/portfolio_debugging_web_services_with_charles.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/subsymbolic/subsymbolic.github.io/main/videos/portfolio_debugging_web_services_with_charles.mp4" type="video/mp4">
   </video>
   <h3> Debugging Web Services with Charles </h3>
   <div class="post-meta">16 May 2017</div>
@@ -100,7 +100,7 @@ I have given uncountable talks and interviews to organisations covering software
 
 <div class="portfolio-entry">
   <video controls class="portfolio-media-wide">
-    <source src="/media/portfolio_an_introduction_to_swift.mp4" type="video/mp4">
+    <source src="https://media.githubusercontent.com/media/subsymbolic/subsymbolic.github.io/main/videos/portfolio_an_introduction_to_swift.mp4" type="video/mp4">
   </video>
   <h3> An Introduction to Swift </h3>
   <div class="post-meta">13 May 2015</div>
