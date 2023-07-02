@@ -37,3 +37,50 @@ $smaller-font-size: $base-font-size * 0.75 !default;
     font-weight: bolder; 
 }
 
+.portfolio-entry {
+    overflow: hidden;
+    margin: 0 0 16px 0;
+}
+
+.portfolio-media-thin {
+    float: left;
+    float: inline-start;
+    width: 160px;
+    margin: 6px 24px 8px 200px;
+}
+
+.portfolio-media-med {
+    float: left;
+    float: inline-start;
+    width: 230px;
+    margin: 6px 24px 8px 130px;
+}
+
+.portfolio-media-wide {
+    float: left;
+    float: inline-start;
+    width: 360px;
+    margin: 6px 24px 8px 0px;
+}
+
+.portfolio-media-rounded {
+    border-radius: 8px;
+}
+
+@mixin portfolio-media-small-device {
+    float: none;
+    margin: 16px 0px 8px 0px;
+}
+@media screen and (max-width: 800px) {
+    .portfolio-media-thin {
+        @include portfolio-media-small-device;
+    }
+    
+    .portfolio-media-med {
+        @include portfolio-media-small-device;
+    }
+    
+    .portfolio-media-wide {
+        @include portfolio-media-small-device;
+    }
+}

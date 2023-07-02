@@ -19,6 +19,7 @@ rss: rss
 # Rendering
 theme: minima
 header_pages:
+  - portfolio.md
   - about.md
 show_excerpts: true
 excerpt_separator: <!--more--> 
