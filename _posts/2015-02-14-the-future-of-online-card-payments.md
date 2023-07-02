@@ -9,15 +9,13 @@ tags:
   - payments
 ---
 
-<img src="/assets/future-of-online-payments-credit-cards.jpg" alt="Credit cards" align="right" style="margin: 4px 16px" width="220"/>
-
 If you shop online you will invariably have seen 3-D Secure, a service used to protect online card payments, embedded in your payment screen under one of its guises. Perhaps as Verified by Visa or MasterCard SecureCode. <!--more-->
-
-While some consumers may feel that this service keeps them safe when shopping online, in reality, it suffers from major security and usability issues and Visa and Mastercard have announced that they are pulling the plug.[^1] 
 
 ![3-D Secure popup](/assets/future-of-online-payments-3-d-secure-popup.gif)
 
-## What are the problems with 3-D Secure?
+While some consumers may feel that this service keeps them safe when shopping online, in reality, it suffers from major security and usability issues and Visa and Mastercard have announced that they are pulling the plug.[^1] 
+
+## What's wrong are the problems with 3-D Secure?
 
 
 ### It teaches people bad habits
