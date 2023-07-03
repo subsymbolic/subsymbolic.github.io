@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /porfolio/
+permalink: /portfolio/
 ---
 
 ## Apps
